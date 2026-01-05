@@ -13,20 +13,23 @@ Inspired by Google Navigation Recipes — adapted for real-world app structure.
 
 ## 📸 Screenshots
 
-### Home
-![Home](screenshots/home_destination.png)
+## 📸 Screenshots
 
-### Favouites
-![Favouites](screenshots/favourites_destination.png)
-
-### Settings
-![Settings Flow](screenshots/settings_destination.png)
-
-### Scene Strategy Portrait
-![Scene Strategy Portrait](screenshots/nav3_scenes_portrait.png)
-
-### Scene Strategy Landscape
-![Scene Strategy Portrait](screenshots/nav3_scenes_landscape.png)
+<table>
+  <tr>
+    <td><img src="screenshots/home_destination.png" width="300"/></td>
+    <td><img src="screenshots/favourites_destination.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/settings_destination.png" width="300"/></td>
+    <td><img src="screenshots/nav3_scenes_portrait.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="screenshots/nav3_scenes_landscape.png" width="340"/>
+    </td>
+  </tr>
+</table>
 
 
 ---

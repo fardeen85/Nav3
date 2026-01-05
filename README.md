@@ -13,8 +13,6 @@ Inspired by Google Navigation Recipes — adapted for real-world app structure.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <table>
   <tr>
     <td><img src="screenshots/home_destination.png" width="300"/></td>
